@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Reyes.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on new projects.
 
 <!---
